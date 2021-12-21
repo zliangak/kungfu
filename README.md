@@ -120,7 +120,7 @@ $ pip install pipenv
 
 #### 常规操作
 
-获取代码并编译：
+获取代码并编译 (要用python3.6, 并且提前安装好pipenv 和 cpython，click)：
 ```
 $ git clone https://github.com/taurusai/kungfu
 $ cd kungfu
